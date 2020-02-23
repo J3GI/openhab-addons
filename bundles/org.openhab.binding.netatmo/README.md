@@ -16,7 +16,7 @@ Here is the procedure:
 
 ### 1. Application Creation
 
-Create an application at https://dev.netatmo.com/dev/createapp
+Create an application at https://dev.netatmo.com/apps/createanapp
 
 The variables you will need to get to setup the binding are:
 
